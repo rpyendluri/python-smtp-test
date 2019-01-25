@@ -1,0 +1,3 @@
+number of brokers onaline are 4, the status is SUCCESSFUL
+number of brokers offline are 0, the status is SUCCESSFUL
+
